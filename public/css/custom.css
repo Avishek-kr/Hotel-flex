@@ -1,0 +1,12 @@
+a{
+    color: #343a40;
+}
+
+a:hover{
+    text-decoration: none;
+    color: #343a40;
+}
+
+img{
+    user-select: none;
+}
